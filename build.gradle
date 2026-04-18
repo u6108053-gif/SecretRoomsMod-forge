@@ -46,18 +46,18 @@ repositories {
 
 	maven { // TOP Chisel, and CTM 
 		name 'tterrag maven'
-		url "http://maven.tterrag.com/"
+		url "https://maven.tterrag.com/"
 	}
 
 	maven {
 		name = "CoFH Maven"
-		url = "http://maven.covers1624.net"
+		url = "https://maven.covers1624.net"
 	}
 
 	maven {
 		// location of the maven that hosts JEI files
 		name = "Progwml6 maven"
-		url = "http://dvs1.progwml6.com/files/maven"
+		url = "https://dvs1.progwml6.com/files/maven"
 	}
 	maven {
 		// location of a maven mirror for JEI files, as a fallback
@@ -68,7 +68,7 @@ repositories {
 	maven {
 		//Hwyla
 		name = "Hwyla repo"
-                url "http://maven.tehnut.info"
+                url "https://maven.tehnut.info"
 	}
 	
 	maven {
