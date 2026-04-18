@@ -87,13 +87,11 @@ repositories {
 }
 
 dependencies {
-	deobfCompile ("mcjty.theoneprobe:TheOneProbe-1.12:1.12-1.4.18-10") { transitive = false }
 	deobfCompile "cofh:RedstoneFlux:1.12-2.0.0.1:universal"
 	deobfCompile "curse.maven:hwyla-253449:2568751"
 	deobfCompile "malisiscore:malisiscore-1.12.2:6.4.0:dev"
 	deobfCompile "malisisdoors:malisisdoors-1.12.2:7.3.0:dev"
 	deobfCompile "team.chisel.ctm:CTM:MC1.12.2-1.0.2.31"
-    deobfCompile "team.chisel:Chisel:MC1.12.2-1.0.2.45"
 
 	deobfProvided "mezz.jei:jei_1.12.2:4.16.1.302:api"
 	runtime "mezz.jei:jei_1.12.2:4.16.1.302"
