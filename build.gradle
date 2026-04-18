@@ -88,6 +88,8 @@ repositories {
 
 dependencies {
 	deobfCompile "cofh:RedstoneFlux:1.12-2.0.0.1:universal"
+	deobfCompile "curse.maven:the-one-probe-245211:2667280"
+    deobfCompile "curse.maven:chisel-235279:2915375"
 	deobfCompile "curse.maven:hwyla-253449:2568751"
 	deobfCompile "malisiscore:malisiscore-1.12.2:6.4.0:dev"
 	deobfCompile "malisisdoors:malisisdoors-1.12.2:7.3.0:dev"
